@@ -40,6 +40,10 @@ Git
 GitHub  
 Docker (learning)  
 
+![Azure](https://img.shields.io/badge/Azure-Data%20Platform-blue)
+![Python](https://img.shields.io/badge/Python-Data%20Engineering-yellow)
+![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-orange)
+
 ## Featured Projects
 
 ### Azure Revenue Intelligence Data Platform
