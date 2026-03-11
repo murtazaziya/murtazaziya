@@ -1,16 +1,69 @@
-## Hi there 👋
+# Murtaza Ziya
 
-<!--
-**murtazaziya/murtazaziya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Engineer | Analytics Engineer | Data Platform Builder
 
-Here are some ideas to get you started:
+I build end-to-end data platforms using cloud technologies, modern
+data warehouses, and business intelligence tools to deliver
+actionable analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focused on:
+
+• Data Engineering  
+• Analytics Engineering  
+• Data Warehouse Architecture  
+• Predictive Analytics
+
+## Tech Stack
+
+**Languages**
+
+Python  
+SQL  
+
+**Data Engineering**
+
+Azure Data Factory  
+Azure Data Lake Storage  
+Azure SQL Database  
+ETL / ELT Pipelines  
+
+**Analytics**
+
+Power BI  
+Data Modeling  
+Star Schema Design  
+Dashboard Development  
+
+**Other Tools**
+
+Git  
+GitHub  
+Docker (learning)  
+
+## Featured Projects
+
+### Azure Revenue Intelligence Data Platform
+
+End-to-end Azure data engineering project simulating an enterprise
+revenue analytics platform.
+
+Features:
+
+• Synthetic enterprise dataset generation  
+• Azure Data Lake ingestion pipeline  
+• Azure SQL star schema data warehouse  
+• Incremental data loading  
+• Power BI executive dashboards  
+
+Repository:
+https://github.com/murtazaziya/enterprise-revenue-analytics-warehouse
+
+## GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=murtazaziya&show_icons=true)
+
+## Contact
+
+LinkedIn: https://linkedin.com/in/murtaza-ziya
+
+Email: ziya.murtaza141@gmail.com
