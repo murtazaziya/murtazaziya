@@ -58,10 +58,6 @@ Features:
 Repository:
 https://github.com/murtazaziya/enterprise-revenue-analytics-warehouse
 
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=murtazaziya&show_icons=true)
-
 ## Contact
 
 LinkedIn: https://linkedin.com/in/murtaza-ziya
